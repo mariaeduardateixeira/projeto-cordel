@@ -1,9 +1,3 @@
-# projeto-cordel
-Projeto realizado no curso de HTML5 e CSS3 da plataforma Curso em Vídeo com o professor Gustavo Guanabara
-
-Para acessar o projeto <a href="https://mariaeduardateixeira.github.io/projeto-cordel/">Clique aqui</a>
-
-
 <h1 align="center"> Cordel Moderno </h1>
 <h3 align="center"> Por Milton Duarte </h3>
 
@@ -19,7 +13,7 @@ Projeto desenvolvido no curso de HTML5 e CSS3 da plataforma Curso em Vídeo com 
 <br>
 
 <p align="center">
-  <img alt="projeto Cordel Moderno" src="imagens/foto Cordel Moderno.png" width="100%">
+  <img alt="projeto Cordel Moderno" src="imagens/fotoCordelModerno.png" width="100%">
 </p>
 
 ## 🚀Tecnologias
